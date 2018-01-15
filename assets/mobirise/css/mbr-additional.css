@@ -812,6 +812,19 @@ blockquote {
 #accordion1-5 P {
   text-align: center;
 }
+#call1-k .display-1 {
+  font-weight: 700;
+}
+#call1-k .lead {
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+#call1-k .mbr-section-title {
+  font-size: 48px;
+  color: #000000;
+  text-align: center;
+}
 #social-buttons1-7 .btn-social {
   color: #fff;
   height: 60px;
