@@ -492,7 +492,7 @@
         {
           "_styles": {},
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "showTitle": true,
             "showButtons": true,
