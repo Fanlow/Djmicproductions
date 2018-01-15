@@ -778,19 +778,19 @@ blockquote {
 }
 #menu-3 .link[aria-expanded="true"],
 #menu-3 .dropdown-menu {
-  background: #1a242f;
+  background: #ac519b;
 }
 #menu-3 .nav-dropdown-sm .link:focus,
 #menu-3 .nav-dropdown-sm .link:hover,
 #menu-3 .nav-dropdown-sm .dropdown-item:focus,
 #menu-3 .nav-dropdown-sm .dropdown-item:hover {
-  background: #273646!important;
+  background: #b869a9!important;
 }
 #menu-3 .navbar,
 #menu-3 .nav-dropdown-sm,
 #menu-3 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-3 .nav-dropdown-sm .dropdown-menu {
-  background: #2c3e50;
+  background: #bd73af;
 }
 #menu-3 .bg-color.transparent .link {
   color: #ffffff;
