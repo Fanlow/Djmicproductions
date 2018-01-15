@@ -1,9 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-
-
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 
 
 
@@ -721,6 +719,10 @@ blockquote {
   font-family: 'Montserrat', sans-serif;
 }
 /*end colorM*/
+#header2-0 {
+  
+  
+}
 #header2-0 .mbr-section-title,
 #header2-0 .mbr-section-subtitle,
 #header2-0 .btn {
