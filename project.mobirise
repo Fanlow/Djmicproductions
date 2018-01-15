@@ -490,7 +490,6 @@
           }
         },
         {
-          "_styles": {},
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
@@ -511,13 +510,18 @@
           },
           "title": "Find Us On Wedding Wire?",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">click here</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.weddingwire.com/biz/dj-mic-productions-llc-haslet/bfa59c0a06602f87.html#events\" data-toolbar=\"-mbrBtnMove\">click here</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "call4",
-          "_anchor": "call4-m"
+          "_anchor": "call4-m",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero call2\" data-rv-view=\"32\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 40px;\">\n\n    \n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-10 col-xs-offset-1 col-lg-8 col-lg-offset-2 text-xs-left call-inner\">\n\n                    <div class=\"col-xs-12 col-lg-6 text-lg-right text-xs-center\">\n                        \n\n                        <h1 class=\"mbr-section-title display-5 mbr-editable-content\" code-editable-id=\"55\">Find Us On Wedding Wire?</h1>\n                    </div>\n\n                    <div class=\"col-xs-12 col-lg-6 text-xs-center text-lg-left\">\n                        <div class=\"mbr-section-btn\"><a class=\"btn btn-primary mbr-editable-button\" href=\"https://www.weddingwire.com/biz/dj-mic-productions-llc-haslet/bfa59c0a06602f87.html#events\" code-editable-id=\"56\">click here</a></div>\n                    </div>\n\n                </div>\n            </div>\n        </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_styles": {
