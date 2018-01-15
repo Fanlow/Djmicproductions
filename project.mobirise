@@ -24,7 +24,8 @@
         "#ca6eb9",
         "#ff9fed",
         "#eca5de",
-        "#bd73af"
+        "#bd73af",
+        "#35a0c6"
       ]
     },
     "versionFirst": "4.5.2",
@@ -175,7 +176,7 @@
             "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -489,21 +490,6 @@
           }
         },
         {
-          "_styles": {
-            ".display-1": {
-              "font-weight": "700"
-            },
-            ".lead": {
-              "color": "#fff",
-              "text-transform": "uppercase",
-              "margin-bottom": "0"
-            },
-            ".mbr-section-title": {
-              "font-size": "48px",
-              "color": "#666666",
-              "text-align": "center"
-            }
-          },
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -531,7 +517,12 @@
             "Theme"
           ],
           "_name": "call1",
-          "_anchor": "call1-k"
+          "_anchor": "call1-k",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero call1\" data-rv-view=\"26\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1 text-xs-left\">\n\n                    <div class=\"col-xs-12 col-lg-8 text-lg-left text-xs-center table-cell-lg\">\n                        \n\n                        <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"35\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Find Us On Wedding Wire</h1>\n                    </div>\n\n                    <div class=\"col-xs-12 col-lg-4 text-xs-center table-cell-lg table-cell-middle\">\n                        <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-secondary mbr-editable-button\" href=\"https://www.weddingwire.com/biz/dj-mic-productions-llc-haslet/bfa59c0a06602f87.html\" code-editable-id=\"36\">Click Here</a></div>\n                    </div>\n\n                </div>\n            </div>\n        </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".display-1 {\n  font-weight: 700;\n}\n.lead {\n  color: #fff;\n  text-transform: uppercase;\n  margin-bottom: 0;\n}\n.mbr-section-title {\n  font-size: 48px;\n  color: #666666;\n  text-align: center;\n}\n",
+          "_customTemplate": true
         },
         {
           "_styles": {
