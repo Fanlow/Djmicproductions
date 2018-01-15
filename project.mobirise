@@ -448,7 +448,7 @@
             "showText": false,
             "tabs": "4",
             "paddingTop": "1",
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/img_extAccordion1_bg.jpg",
             "parallax": false,
@@ -500,7 +500,7 @@
             },
             ".mbr-section-title": {
               "font-size": "48px",
-              "color": "#000000",
+              "color": "#666666",
               "text-align": "center"
             }
           },
@@ -523,7 +523,7 @@
             "overlayColor": "#16a085",
             "overlayOpacity": 0.9
           },
-          "title": "Find Us On Wedding Wire",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Find Us On Wedding Wire",
           "text": "Develop fully responsive, mobile-ready websites",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Click Here</a>",
           "alias": "colorm/components",
