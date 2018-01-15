@@ -219,7 +219,7 @@
             "showTitles": true,
             "tabs": "3",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
             "parallax": true,
